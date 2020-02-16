@@ -1,12 +1,6 @@
-# frozen_string_literal: true
-
 source "https://rubygems.org"
-gemspec
 
-group :jekyll_plugins do
-    gem "jekyll-feed", "~> 0.6"
-    gem "jekyll-sitemap"
-    gem "jekyll-paginate"
-    gem "jekyll-seo-tag"
-end
-
+require 'json'
+require 'open-uri'
+versions = JSON.parse(open('https://pages.github.com/versions.json').read)
+gem 'github-pages', versions['github-pages'], group: :jekyll_plugins
