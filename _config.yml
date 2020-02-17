@@ -33,6 +33,9 @@ disqus_shortname: "matjek"
 
 # Build settings
 markdown: kramdown
+kramdown:                                                                       
+   input: GFM
+   hard_wrap: false
 plugins:
   - jekyll-feed
   - jekyll-paginate
