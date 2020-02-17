@@ -3,7 +3,7 @@ layout: post
 title:  "使用github pages + jekyll 搭建个人网站"
 date:   2020-02-17 10:30:13 +0800
 categories: default
-tags: github 
+tags: github jekyll
 ---
 
 一直想记录一下自己的成长轨迹，于是就搭一个博客，好在Github提供了一个平台，省去了备案的麻烦，可以集中精神搞好自己的网站。
