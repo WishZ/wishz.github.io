@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "使用github pages + jekyll 搭建个人网站"
-date:   2020-02-17 10:30:13 +0800
-categories: default
+date:   2020-02-17 20:30:13 +0800
+categories: github
 tags: github jekyll
 ---
 
