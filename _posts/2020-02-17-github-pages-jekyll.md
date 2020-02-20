@@ -13,7 +13,7 @@ tags: github jekyll
 使用github管理个人网站时，对应的仓库命名是有要求的，必须以username.github.io命名，username是github用户名，此时网站对应的代码仓库分支为master
 
 #### 选择主题
-github有很多模板主题提供选择，相关代码会自动生成，目前本博客使用的是第三方模板，点[此处](https://tianqi.name/jekyll-TeXt-theme/docs/zh/quick-start)可浏览<br />
+github有很多模板主题提供选择，相关代码会自动生成，目前本博客使用的是第三方模板，点[此处](https://github.com/kitian616/jekyll-TeXt-theme)可浏览<br />
 
 
 #### 关于 jekyll
