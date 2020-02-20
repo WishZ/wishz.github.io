@@ -1,14 +1,11 @@
 ---
-layout: post
 title:  "使用github pages + jekyll 搭建个人网站"
-date:   2020-02-17 20:30:13 +0800
-categories: github
 tags: github jekyll
 ---
 
 一直想记录一下自己的成长轨迹，于是就搭一个博客，好在Github提供了一个平台，省去了备案的麻烦，可以集中精神搞好自己的网站。
 
-
+<!--more-->
 #### 创建 github 账号
 若无github账号，在[此处](https://github.com)进行注册<br />
 
@@ -16,8 +13,8 @@ tags: github jekyll
 使用github管理个人网站时，对应的仓库命名是有要求的，必须以username.github.io命名，username是github用户名，此时网站对应的代码仓库分支为master
 
 #### 选择主题
-github有很多模板主题提供选择，相关代码会自动生成，目前本博客使用的是第三方模板，点[此处](https://github.com/ShawnTeoh/matjek)可浏览<br />
-注：此模板下，文件名称居然不能以001这种数字结尾，否则样式会乱，略坑。。。
+github有很多模板主题提供选择，相关代码会自动生成，目前本博客使用的是第三方模板，点[此处](https://tianqi.name/jekyll-TeXt-theme/docs/zh/quick-start)可浏览<br />
+
 
 #### 关于 jekyll
 jekyll 是一种静态站点生成工具，是发表文章的过程简化为添加并撰写一篇markdown文档

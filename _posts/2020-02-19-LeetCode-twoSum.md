@@ -1,13 +1,10 @@
 ---
-layout: post
 title:  "leetCode 刷题记 [001] 两数之和"
-date:   2020-02-19 20:30:13 +0800
-categories: leetCode
 tags: leetCode
 ---
 
 leetCode 刷题记，从此开始。
-
+<!--more-->
 
 #### 001 两数之和
 

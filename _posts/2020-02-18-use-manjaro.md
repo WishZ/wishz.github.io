@@ -1,13 +1,10 @@
 ---
-layout: post
 title:  "manjaro kde 安装体验小结"
-date:   2020-02-18 20:30:13 +0800
-categories: linux
 tags: linux manjaro jsdelivr
 ---
 
 前段时间在公司电脑用windows10 + docker的开发环境，实在是太卡了，发现manjaro这个系统很惊艳，比arch稳定，最终选择了 manjaro kde。
-
+<!--more-->
 
 #### 安装
 安装用的U盘安装，使用的是 ultariso。写入硬盘的时候一定要使用RAW的方式去写入，否则会有问题。
