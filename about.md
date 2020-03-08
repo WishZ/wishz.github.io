@@ -25,3 +25,4 @@ titles:
   # @end locale config
 key: page-about
 ---
+
