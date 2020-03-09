@@ -41,6 +41,7 @@ jekyll 是一种静态站点生成工具，是发表文章的过程简化为添�
   ```
 3.进入username.github.io项目目录
   ```
+  sudo apt-get install libmysqlclient-dev
   sudo bundle install
   sudo bundle update listen
   #启动服务
