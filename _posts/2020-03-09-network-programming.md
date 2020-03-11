@@ -6,22 +6,22 @@ tags: io asynchronous socket signal
 Linux环境下的网络IO ，同步IO和异步IO，阻塞IO与非阻塞IO
 <!--more-->
 #### 阻塞IO[Blocking IO]
-![阻塞IO](https://github.com/WishZ/wishz.github.io/blob/master/images/IO/blocking%20IO.gif)
+![阻塞IO](../images/IO/blocking%20IO.gif)
 
 #### 非阻塞IO[non-blocking IO]
-![非阻塞IO](https://github.com/WishZ/wishz.github.io/blob/master/images/IO/non-blocking%20IO.gif)
+![非阻塞IO](../images/IO/non-blocking%20IO.gif)
 
 
 #### IO复用[IO multiplexing]
-![IO复用](https://github.com/WishZ/wishz.github.io/blob/master/images/IO/IOmultiplexing.gif)
+![IO复用](../images/IO/IOmultiplexing.gif)
 
 
 #### 异步IO[Asynchronous IO]
 
-![异步IO](https://github.com/WishZ/wishz.github.io/blob/master/images/IO/asynchronous%20IO.gif)
+![异步IO](../images/IO/asynchronous%20IO.gif)
 
 #### 各IO间对比
-![异步IO](https://github.com/WishZ/wishz.github.io/blob/master/images/IO/IO%20compare.gif)
+![异步IO]../images/IO/IO%20compare.gif)
 
 #### 参考
 ```
