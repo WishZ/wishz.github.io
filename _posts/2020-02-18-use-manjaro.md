@@ -8,7 +8,7 @@ tags: linux manjaro jsdelivr
 
 #### 安装
 安装用的U盘安装，使用的是 ultariso。写入硬盘的时候一定要使用RAW的方式去写入，否则会有问题。
-注：笔者在家里电脑(Dell 笔记本)安装后，总是黑屏无法进入登录界面，都是显卡驱动导致的，解决办法如下：
+注：在家里电脑(Dell 笔记本)安装后，总是黑屏无法进入登录界面，都是显卡驱动导致的，解决办法如下：
 1. 进入grub界面后，移动到Manjaro的启动项，按E，在大概倒数第二行，找到 quite 在其后面添加 xdriver=mesa acpi_osi=! acpi_osi="Windows 2009" 按F10就可以顺利进入系统了。
 2. 进入系统后修改grub文件。
 3. 打开终端，sudo vim /boot/grub/grub.cfg
