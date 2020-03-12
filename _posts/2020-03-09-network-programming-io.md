@@ -1,6 +1,6 @@
 ---
 title:  "IO - 同步、异步、阻塞与非阻塞 "
-tags: io asynchronous socket signal  
+tags: io asynchronous socket signal  待补充
 ---
 
 Linux环境下的网络IO ，同步IO和异步IO，阻塞IO与非阻塞IO

@@ -1,6 +1,6 @@
 ---
 title:  "Linux 下poll select epoll的区别 "
-tags: linux  
+tags: linux  待补充
 ---
 
 select，poll，epoll都是IO多路复用的机制
