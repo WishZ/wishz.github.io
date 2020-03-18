@@ -19,3 +19,5 @@ $getPrivateProperty = function ($property) {
 $b = $getPrivateProperty->call(new B(),'b');
 var_dump($b);//1
 ```
+参考：
+> https://www.php.net/manual/en/closure.call.php
