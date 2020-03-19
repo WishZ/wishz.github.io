@@ -12,9 +12,13 @@ tags: 面试题  待补充
 使用RPC
 ```
 >2.RPC使用什么实现
+
+
 ```
 HTTP/2
 ```
+
+
 > 3.php-fpm 运行机制？
 
 
@@ -26,11 +30,16 @@ HTTP/2
 使用连接池
 ```
 > 2.连接池的原理？
+```
+连接复用
+待补充
+```
 
 > 3.表tab 有id,a,b,c,d四个字段，其中id为主键，a,b,c,d都是int型，abc设置为关联索引，问以下两个sql语句的效率已经能用上的索引
+
+```
 语句1：select id from tab where a=1 and b>1 and c >1;
 语句2：select d from tab where  a=1 and b>1 and c >1;
-```
 语句1的效率更高 原因是：
 其中语句2通过条件查询出主键后  再反查d的值
 
