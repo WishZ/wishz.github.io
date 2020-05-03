@@ -1,6 +1,6 @@
 ---
-title:  "Golang 实现简单的 RPC 服务"
-tags: Golang RPC
+title:  "Golang 实现简单的 gRPC 服务 《案例一 TODO服务》"
+tags: Golang gRPC
 ---
 
 Golang 实现简单的 RPC 服务
